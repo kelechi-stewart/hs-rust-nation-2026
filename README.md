@@ -16,7 +16,7 @@ Fastest car to get to the right quadrant each time wins!
 To start off, connect to the Helsing hackathon Wi-Fi:
 
 - SSID: `hs-hack`
-- Password: provided by your friendly Helsingers
+- Password: traction-oneself-divine-recorder
 
 That's it!
 Don't hesitate to ask the team if you have any questions about the rest of the instructions.
